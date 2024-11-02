@@ -7,7 +7,7 @@ import os
 from pynput.keyboard import Key, Controller
 keyb = Controller()
 
-Password = "gftr21b;"
+Password = "#123qwe#;"
 login = "admin"
 enable = "enable"
 HOST = input("Digite IP Avocent: ")
